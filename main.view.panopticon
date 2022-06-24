@@ -1,1 +1,1 @@
-{}
+{"details":{"name":"Test","description":"Thats a test\n\nTest...."},"parameters":{"test":{"value":"Test","label":"Test","placeholder":"","default":""}},"modules":[{"parameters":{"title":"HTML","html":"<h1>HTML Sandbox</h1><link rel=\"stylesheet\" href=\"/default.css\">"},"type":"HTML","uuid":"514d0e93-e796-4efa-b4a4-1798b072dcb9"}],"tiles":"514d0e93-e796-4efa-b4a4-1798b072dcb9","presets":[{"uuid":"958bd9ff-2c74-49a4-a861-1dc95138e9b1","name":"Test","preset":{"test":{"value":null,"label":"Test","placeholder":"","default":""}}}]}
